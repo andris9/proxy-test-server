@@ -2,7 +2,7 @@
   "name": "proxy-test-server",
   "version": "1.0.0",
   "description": "Proxy server for testing proxied connections",
-  "main": ".eslintrc.js",
+  "main": "lib/server.js",
   "scripts": {
     "test": "grunt"
   },
